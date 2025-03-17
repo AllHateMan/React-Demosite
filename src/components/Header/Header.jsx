@@ -1,5 +1,5 @@
-import atomImg from "../assets/react-core-concepts.png";
-
+import atomImg from "../../assets/react-core-concepts.png";
+import "./Header.css";
 const ReactDescription = ["Fundamental", "Core", "Crucial"];
 
 function genRandomInt(max) {
